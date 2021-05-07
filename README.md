@@ -20,7 +20,6 @@ java -jar client.jar
 ```
 
 ### Python
-You can use my virtual environment (venv directory) if you don't want to install python3 and thrift library.
 
 ```shell
 python3 server.py
